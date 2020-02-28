@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Nguyễn Nhật Minh",
+        "phone":"0338616558",
+        "permisson":1
+    },
+    {
+        "id":2,
+        "name":"Lương Xuân Trường",
+        "phone":"0338616448",
+        "permisson":2
+    },
+    {
+        "id":3,
+        "name":"Nguyễn Quang Hải",
+        "phone":"0338616519",
+        "permisson":3
+    },
+    {
+        "id":4,
+        "name":"Nguyễn Trọng Hoàng",
+        "phone":"0338616888",
+        "permisson":1
+    },
+    {
+        "id":5,
+        "name":"Bùi Tiến Dũng",
+        "phone":"0338616555",
+        "permisson":1
+    },
+    {
+        "id":6,
+        "name":"Đặng Văn Lâm",
+        "phone":"0338616523",
+        "permisson":1
+    }
+]
